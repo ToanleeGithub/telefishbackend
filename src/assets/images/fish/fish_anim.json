@@ -1,0 +1,44 @@
+{
+    "anims": [
+        {
+            "key": "hit",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 8,
+            "frames": [
+                {
+                    "key": "fish",
+                    "frame": "__anglerfish_swim_btting_000"
+                },
+                {
+                    "key": "fish",
+                    "frame": "__anglerfish_swim_btting_001"
+                },
+                {
+                    "key": "fish",
+                    "frame": "__anglerfish_swim_btting_002"
+                },
+                {
+                    "key": "fish",
+                    "frame": "__anglerfish_swim_btting_003"
+                },
+                {
+                    "key": "fish",
+                    "frame": "__anglerfish_swim_btting_004"
+                },
+                {
+                    "key": "fish",
+                    "frame": "__anglerfish_swim_btting_005"
+                },
+                {
+                    "key": "fish",
+                    "frame": "__anglerfish_swim_btting_006"
+                },
+                {
+                    "key": "fish",
+                    "frame": "__anglerfish_swim_btting_007"
+                }
+            ]
+        }
+    ]
+}

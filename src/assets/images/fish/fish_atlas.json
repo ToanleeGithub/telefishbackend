@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "__anglerfish_swim_btting_004",
+            "frame": {
+                "w": 899,
+                "h": 1172,
+                "x": 30,
+                "y": 30
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "__anglerfish_swim_btting_005",
+            "frame": {
+                "w": 899,
+                "h": 1172,
+                "x": 989,
+                "y": 30
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "__anglerfish_swim_btting_006",
+            "frame": {
+                "w": 899,
+                "h": 1172,
+                "x": 1948,
+                "y": 30
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "__anglerfish_swim_btting_007",
+            "frame": {
+                "w": 899,
+                "h": 1172,
+                "x": 2907,
+                "y": 30
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "__anglerfish_swim_btting_000",
+            "frame": {
+                "w": 899,
+                "h": 1172,
+                "x": 30,
+                "y": 1262
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "__anglerfish_swim_btting_001",
+            "frame": {
+                "w": 899,
+                "h": 1172,
+                "x": 989,
+                "y": 1262
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "__anglerfish_swim_btting_002",
+            "frame": {
+                "w": 899,
+                "h": 1172,
+                "x": 1948,
+                "y": 1262
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "__anglerfish_swim_btting_003",
+            "frame": {
+                "w": 899,
+                "h": 1172,
+                "x": 2907,
+                "y": 1262
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
