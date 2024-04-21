@@ -51,6 +51,10 @@ const hbsInstance = exphbs.create();
 app.engine("handlebars", hbsInstance.engine);
 app.set("view engine", "handlebars");
 
+app.get("/", (req, res) => {
+  res.send("hello, welcome to my server");
+});
+
 app.post("/api/start", async (req, res) => {
   try {
     const username = req.body.username;
